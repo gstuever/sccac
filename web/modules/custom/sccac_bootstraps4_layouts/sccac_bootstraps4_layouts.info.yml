@@ -1,0 +1,6 @@
+name: SCCAC Bootstraps4 layouts
+type: module
+description: Bootstraps4 layouts
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
