@@ -5686,7 +5686,7 @@ button.bg-dark:focus {
 .mx-4 {
   margin-right: 1.5rem !important; }
 
-.mb-4,
+.mb-4, .navbar,
 .my-4 {
   margin-bottom: 1.5rem !important; }
 
@@ -7501,6 +7501,13 @@ footer {
 a.tabledrag-handle .handle {
   display: table-cell;
   padding-right: 1rem !important; }
+
+body {
+  background: url(../../../../sites/default/files/canvas.jpg); }
+
+.footer-dark,
+.bg-dark {
+  background-color: #ff97d6 !important; }
 
 .layout-builder__section .layout-builder__add-block {
   position: relative;

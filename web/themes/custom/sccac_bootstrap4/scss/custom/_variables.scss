@@ -1,1 +1,13 @@
 // Define new variables.
+body {
+    background: url(../../../../sites/default/files/canvas.jpg);
+}
+
+.footer-dark,
+.bg-dark {
+    background-color: #ff97d6 !important;
+}
+
+.navbar {
+    @extend .mb-4;
+}
