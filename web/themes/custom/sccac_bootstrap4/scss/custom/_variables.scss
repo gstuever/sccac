@@ -11,3 +11,13 @@ body {
 .navbar {
     @extend .mb-4;
 }
+
+.navbar-brand div {
+    white-space: normal;
+}
+
+.contact {
+    background:#ffffff;
+    padding: 1em;
+    margin-bottom: 1.5rem;
+}

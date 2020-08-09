@@ -7509,6 +7509,14 @@ body {
 .bg-dark {
   background-color: #ff97d6 !important; }
 
+.navbar-brand div {
+  white-space: normal; }
+
+.contact {
+  background: #ffffff;
+  padding: 1em;
+  margin-bottom: 1.5rem; }
+
 .layout-builder__section .layout-builder__add-block {
   position: relative;
   width: 100%;
