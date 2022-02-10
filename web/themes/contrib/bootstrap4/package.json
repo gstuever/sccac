@@ -12,7 +12,7 @@
     "lint:js": "eslint --no-eslintrc -c=./.eslintrc.json js/**.es6.js"
   },
   "devDependencies": {
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "http-server": "^0.12.3",
     "prettier": "^1.14.0",
     "sass-lint": "^1.13.1",
